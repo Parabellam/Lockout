@@ -1,0 +1,4 @@
+﻿  Lockout.cpp
+C:\Users\sruiz\Desktop\STIVEN RUIZ HINCAPIE\PROPIOS\3. Lockout\Lockout\Lockout\Lockout.cpp(99,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\sruiz\Desktop\STIVEN RUIZ HINCAPIE\PROPIOS\3. Lockout\Lockout\Lockout\Lockout.cpp(100,22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Lockout.vcxproj -> C:\Users\sruiz\Desktop\STIVEN RUIZ HINCAPIE\PROPIOS\3. Lockout\Lockout\x64\Debug\Lockout.exe
