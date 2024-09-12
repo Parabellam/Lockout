@@ -4,6 +4,8 @@
 #include <iostream>
 #include <string>
 
+// By Stiven Ruiz (Parabellam)
+
 #define MAX_LOADSTRING 100
 
 // Variables globales:
